@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Manager Application
 
 This is a full-stack task management application built with a React frontend and an Express/MongoDB backend. The application allows users to register, log in, and manage tasks with features like filtering, prioritization, and status updates.
@@ -73,3 +74,6 @@ Open the application in your browser at http://localhost:5173.
 ### Run the seed script:
 
    node seed.js
+=======
+# TaskManager
+>>>>>>> cc4382b9dbab2bf6595ccd52a50212dd101eb868
